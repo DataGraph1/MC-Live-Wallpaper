@@ -11,7 +11,7 @@ Initional setup
 2. Run the the downloaded program
 3. Click "Install Now"
 4. Click "Yes" on the pop-up
-5. Download "TimeList.json", "WallPaperChanger.pyw" & "Compressed Images" from the GitHub repository at github.com/DataGraph1/Live-Wallpaper
+5. Download "TimeList.json", "WallPaperChanger.pyw" & "Compressed Images" from this GitHub repository (github.com/DataGraph1/Live-Wallpaper)
 6. Run "WallPaperChanger.pyw"
 
 Run on PC start up
