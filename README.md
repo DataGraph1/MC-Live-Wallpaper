@@ -22,8 +22,8 @@ Run on PC start up
 3. Move "standard.pyw" into the folder
 4. Right-Click "standard.pyw" and click Open With > Choose another app > More apps > Notepad
 5. Change line 1 to dir = "[the directory the other files are in]" (make sure it ends with a \\)
-    e.g. dir = "F:\Programs\MC-Live-Wallpaper\\"
-6. Save and close the file
+6.     e.g. dir = "F:\Programs\MC-Live-Wallpaper\\"
+8. Save and close the file
 
 Making your own wallpapers
 1. Download a macro creator and make a macro to press F2 every 1.2 seconds
