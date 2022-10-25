@@ -1,4 +1,4 @@
-dir = "" + "\\"
+dir = ""
 
 import ctypes, datetime, sched, time, math, json
 import os
