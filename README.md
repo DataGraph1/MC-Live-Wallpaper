@@ -1,6 +1,6 @@
 # Live-Wallpaper
 
-This is a python script to change your wallpaper to a Minecraft screenshot with equalevent in game time, to real life time. It also has the ability to change based on the weather, although is disabiled by default. Please keep in mind this was orginally just a quick script I made for myself to learn some coding, so isnt coded the best. Thanks to Doomcow500 for helping to clean up my code and make it easier for others to use.
+This is a python script to change your wallpaper to a Minecraft screenshot with equivalent in game time, to real life time. It also has the ability to change based on the weather, although is disabiled by default. Please keep in mind this was originally just a quick script I made for myself to learn some coding, so it isn't coded the best. Thanks to Doomcow500 for helping to clean up my code and make it easier for others to use.
 
 
 # Installation
@@ -19,7 +19,6 @@ Run on PC start up
 2. In the new window the opens, go to Microsoft > Windows > Start Menu > Programs > Startup
 3. Move "WallPaperChanger.pyw" into the folder
 4. Right-Click "WallPaperChanger.pyw" and click Open With > Notepad
-5. Change line 1 to dir = "[the directory the other files are in]"
 
 Making your own wallpapers
 1. Download a macro creator and make a macro to press F2 every minute
