@@ -2,7 +2,7 @@
 
 Installation
 
-Install setup
+Initional setup
 1. Go to python.org/downloads and click "Download Python"
 2. Run the the downloaded program
 3. Click "Install Now"
