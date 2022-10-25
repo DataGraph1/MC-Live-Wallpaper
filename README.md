@@ -21,8 +21,8 @@ Run on PC start up
 2. In the new window that opened, go to Microsoft > Windows > Start Menu > Programs > Start-up
 3. Move "standard.pyw" into the folder
 4. Right-Click "standard.pyw" and click Open With > Choose another app > More apps > Notepad
-5. Change line 1 to dir = "[the directory the other files are in]" (make sure it ends with a \\)
-e.g. dir = "F:\Programs\MC-Live-Wallpaper\\"
+5. Change line 1 to dir = "[the directory the other files are in]" (make sure it ends with a /)
+e.g. dir = "F:\Programs\MC-Live-Wallpaper/"
 8. Save and close the file
 
 Making your own wallpapers
