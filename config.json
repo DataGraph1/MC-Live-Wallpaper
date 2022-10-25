@@ -1,5 +1,4 @@
 {
-    "weather": "Sunny",
     "imagesPath": "images",
     "timesList": "timesList.json"
 }
