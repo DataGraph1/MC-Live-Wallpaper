@@ -1,4 +1,4 @@
-dir = "F:\Downloads\Live-Wallpaper-main\Live-Wallpaper-main" + "\\"
+dir = "" + "\\"
 
 import ctypes, datetime, sched, time, math, json
 import os
