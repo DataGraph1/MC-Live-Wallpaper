@@ -4,7 +4,7 @@ This is a python script to change your wallpaper to a Minecraft screenshot with 
 
 
 # Installation
-
+(Windows 10/11)
 Initional setup
 1. Go to python.org/downloads and click "Download Python"
 2. Run the the downloaded program
