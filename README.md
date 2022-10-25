@@ -15,11 +15,11 @@ Initional setup
 6. Run "WallPaperChanger.pyw"
 
 Run on PC start up
-1. Press "Windows" and "R" and type "%AppData%"
-2. Go to Microsoft > Windows > Start Menu > Programs > Startup
+1. Hold the "Windows" and "R" keys and type "%AppData%"
+2. In the new window the opens, go to Microsoft > Windows > Start Menu > Programs > Startup
 3. Move "WallPaperChanger.pyw" into the folder
 4. Right-Click "WallPaperChanger.pyw" and click Open With > Notepad
-5. Change line 1 to dir = "[the directory to you other files]"
+5. Change line 1 to dir = "[the directory the other files are in]"
 
 Making your own wallpapers
 1. Download a macro creator and make a macro to press F2 every minute
