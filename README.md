@@ -30,3 +30,4 @@ Making your own wallpapers
 2. Go somewhere in Minecraft, press F1 and F11 (to full screen)
 3. Run macro for 20 minutes (full day and night in MC)
 4. Replace the photos in the "images" folder with your screenshots (there should be 1440)
+5. Rename the images in order from 00001.png - 01440.png
